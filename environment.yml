@@ -4,10 +4,9 @@ channels:
 dependencies:
   - r-base
   - r-essentials
-  - r-tidyverse
   - r-dplyr
-  - r-ggplot2
-  - r-readr
-  - r-knitr
-  - r-markdown
-  - r-devtools
+  - r-naniar
+  - r-plyr
+  - r-mgcv
+  - r-itsadug
+  - r-sjplot
