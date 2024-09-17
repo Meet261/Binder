@@ -8,5 +8,4 @@ dependencies:
   - r-naniar
   - r-plyr
   - r-mgcv
-  - r-itsadug
   - r-sjplot
