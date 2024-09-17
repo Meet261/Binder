@@ -1,0 +1,13 @@
+name: r-environment
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-essentials
+  - r-tidyverse
+  - r-dplyr
+  - r-ggplot2
+  - r-readr
+  - r-knitr
+  - r-markdown
+  - r-devtools
