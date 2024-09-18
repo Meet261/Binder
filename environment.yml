@@ -1,11 +1,11 @@
-name: r-environment
+name: binder-environment
 channels:
   - conda-forge
+  - defaults
 dependencies:
-  - r-base
-  - r-essentials
-  - r-dplyr
-  - r-naniar
-  - r-plyr
-  - r-mgcv
-  - r-sjplot
+  - python=3.10
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - networkx
